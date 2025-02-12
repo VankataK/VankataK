@@ -43,7 +43,7 @@ Here are some of the technologies and tools I work with:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VankataK&layout=compact&theme=radical)
 
 ---
-
+<!--
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
